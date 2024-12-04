@@ -7,8 +7,9 @@
 ![Netlify](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&color=F05032)
-![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&color=1572B6)
-![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=css&color=47A248)
+![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&color=1572B6)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+
 
 With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
